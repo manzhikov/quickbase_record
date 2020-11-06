@@ -23,6 +23,6 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rspec", "~> 3.2"
 
   spec.add_runtime_dependency "advantage_quickbase", "~> 1.0.1"
-  spec.add_runtime_dependency "activesupport", ">= 4.0"
-  spec.add_runtime_dependency "activemodel", ">= 4.0"
+  spec.add_runtime_dependency "activesupport", ">= 6.0"
+  spec.add_runtime_dependency "activemodel", ">= 6.0"
 end
